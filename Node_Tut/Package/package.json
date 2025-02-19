@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Learning package.json",
+  "main": "ok",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lmao"
+  ],
+  "author": "Moushuf",
+  "license": "ISC"
+}
